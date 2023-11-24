@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaTwitter, FaLinkedinIn } from 'react-icons/fa';
+import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { contactImg } from '../../assets/index';
 
 const ContactLeft = () => {
@@ -26,7 +26,7 @@ const ContactLeft = () => {
 				<p className="text-base text-gray-400 flex items-center gap-2">
 					Phone:{' '}
 					<span className="text-lightText">
-						+216 29057538
+						+216 29 057 538
 					</span>
 				</p>
 				<p className="text-base text-gray-400 flex items-center gap-2">

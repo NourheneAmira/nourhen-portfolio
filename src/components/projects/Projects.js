@@ -11,27 +11,24 @@ const Projects = () => {
 		>
 			<div className="flex justify-center items-center text-center">
 				<Title
-					title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
+					title="VISIT MY PORTFOLIO "
 					des="My Projects"
 				/>
 			</div>
 			<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
 				<ProjectsCard
-					title="SOCIAL MEDIA CLONE"
-					des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+					title="Web Development"
+					des="Ecommerce Website"
 					src={projectOne}
 				/>
 				<ProjectsCard
-					title="E-commerce Website"
-					des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+					title="Web Development"
+					des=" Chat app"
 					src={projectTwo}
 				/>
 				<ProjectsCard
-					title="Chatting App"
-					des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+					title="Web development"
+					des=" lms elearning "
 					src={projectThree}
 				/>
 			</div>
