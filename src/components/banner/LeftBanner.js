@@ -1,8 +1,6 @@
 import React from 'react';
 import { useTypewriter, Cursor } from 'react-simple-typewriter';
 import Media from './Media';
-import hi from '../../assets/hi.pdf';
-
 const LeftBanner = () => {
 	const [text] = useTypewriter({
 		words: [
@@ -53,18 +51,7 @@ const LeftBanner = () => {
 			</div>
 			{/* Media */}
 			<Media />
-			<div className="w-full">
-				<a
-					href={hi}
-					download="Example-PDF-document"
-					target="_blank"
-					rel="noreferrer"
-				>
-					<button className="w-full h-12 bg-[#141518] rounded-lg text-base text-gray-400 tracking-wider uppercase hover:text-white duration-300 hover:border-[1px] hover:border-designColor border-transparent">
-						Download .pdf file
-					</button>
-				</a>
-			</div>
+	
 		</div>
 	);
 };
