@@ -18,18 +18,24 @@ const Projects = () => {
 			<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
 				<ProjectsCard
 					title="Web Development"
-					des="Ecommerce Website"
+					des="LMs elearning"
 					src={projectOne}
+					href="https://drive.google.com/file/d/1YZvK0_YeGwMh7Z1fjwOh4Gznf33ZyG0f/view?usp=sharing"
+					hrefgit=""
 				/>
 				<ProjectsCard
 					title="Web Development"
-					des=" Chat app"
+					des=" etablissement scolaire"
 					src={projectTwo}
+					href="https://drive.google.com/file/d/1XGP0btDoPdXTIZS3UN9wG1sv10AbdQXI/view?usp=drive_link"
+					hrefgit="https://github.com/NourheneAmira/pidev-springboot-api"
 				/>
 				<ProjectsCard
 					title="Web development"
-					des=" lms elearning "
+					des=" ERP "
 					src={projectThree}
+					href=""
+					hrefgit=""
 				/>
 			</div>
 		</section>
