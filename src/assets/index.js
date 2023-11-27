@@ -1,4 +1,4 @@
-import nourhenIImg from './images/nourhenIImg.png';
+import nourhenIImg from './images/nourhenIImg.PNG';
 import projectOne from './images/projects/projectOne.PNG';
 import projectTwo from './images/projects/projectTwo.jpg';
 import projectThree from './images/projects/projectThree.jpg';
