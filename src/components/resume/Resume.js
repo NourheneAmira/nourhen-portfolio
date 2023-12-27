@@ -1,7 +1,6 @@
 import Title from '../layouts/Title';
 
 import Skills from './Skills';
-import hi from '../../assets/hi.pdf';
 
 const Resume = () => {
 	return (
