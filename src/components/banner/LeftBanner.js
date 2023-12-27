@@ -39,7 +39,7 @@ const LeftBanner = () => {
 					engineer, passionate about the
 					field of development,
 					especially FULL STACK
-					development (Spring/Angular),
+					development (Spring/Node/Angular/React),
 					and databases (MongoDB and
 					SQL). I am very cooperative,
 					autonomous, and flexible. I

@@ -32,7 +32,7 @@ const ContactLeft = () => {
 				<p className="text-base text-gray-400 flex items-center gap-2">
 					Email:{' '}
 					<span className="text-lightText">
-						nourhene.amira@esprit.tn
+						nourhene.amira.nr@gmail.com
 					</span>
 				</p>
 			</div>

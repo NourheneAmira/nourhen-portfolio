@@ -12,7 +12,7 @@ const Media = () => {
 				<div className="flex gap-4">
 					<span className="bannerIcon">
 						<a
-							href="https://www.linkedin.com/in/nourhenamira/"
+							href="https://www.linkedin.com/in/nourhen-amira/"
 							target="_blank"
 							rel="noreferrer"
 						>
